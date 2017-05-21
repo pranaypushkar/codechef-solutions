@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495376240 source:c:\users\user\codechef\codechef\main.cpp
+	<iostream>
+	<iomanip>
+
