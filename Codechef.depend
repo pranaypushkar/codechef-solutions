@@ -1,5 +1,11 @@
 # depslib dependency file v1.0
-1495376240 source:c:\users\user\codechef\codechef\main.cpp
+1495386811 source:c:\users\user\codechef\codechef\main.cpp
+
+1495386696 source:c:\users\user\codechef\codechef\atm_hs08test.cpp
+	<iostream>
+	<iomanip>
+
+1495386542 c:\users\user\codechef\codechef\atm_hs08test.cpp
 	<iostream>
 	<iomanip>
 
